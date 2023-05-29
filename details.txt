@@ -1,0 +1,29 @@
+Welcome video: please listen this first!
+Objective
+To evaluate the candidate`s capability of handling data structures, uncertainty, similarity metrics and text pre-processing.
+
+Scope
+The challenge is about ranking resumes for a specific job description based on the matching content of both sides.
+
+What do we expect?
+At least Jupyter notebook or a plain Python file that reads the files and writes another file with the indexes of the resumes and their specific ranking values, together with the file produced by the script sent via email (to allan@summ.link) and the submission of the output to Kaggle challenge. Feel free to use any framework/library that you judge needed.
+If you think necessary, you can also attach a written file (.pdf) or a README.md explaining your approach, the difficulties faced and how did you tackle them. Besides, feel free to use whatever approach you think has the best balance among cost, performance, quick development, easy maintenance, and generalization for different job descriptions.
+
+Evaluation
+The criteria evaluated are efficient usage of computational resources, clarity of coding and documentation, explanation of your approach and the way of explaining the difficulties found.
+
+For any extra information/suggestion reach out to allan@summ.link
+
+
+
+Dataset Description
+There are three files:
+
+job_description_response.json
+Contains the output of an automatic job openings search tool and has some structured fields in Json format.
+
+resumes.csv
+contains 32 anonymized resumes' texts in a csv format. The names in the first column are form famous philosophers, and they must be present in your submission alongside with their respective positions in the ranking pool.
+
+sample_submission.csv
+Contains a sample of how the output of your algorithm should be submitted. Please notice that the rank column does not contain the calculated similarity calculated, but the position of the resume among the others' ranks, being '1' the biggest match and 32 the smallest match. The numbers in rank column are integers from 1 to 32 and with no repetition.
