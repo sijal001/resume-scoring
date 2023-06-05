@@ -18,7 +18,6 @@
 ---
 
 ## **Table of Contents**
-Your section headers will be used to reference the location of the destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
