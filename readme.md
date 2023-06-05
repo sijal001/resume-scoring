@@ -24,6 +24,7 @@ Your section headers will be used to reference the location of the destination.
 - [How To Use](#how-to-use)
 - [Repo Artitecture](#repo-artitecture)
 - [Project Flow](#project-flow)
+- [More on Project](#more-on-project)
 - [Next Step](#next-step)
 - [License](#license)
 - [Author Info](#author-info)
@@ -124,6 +125,29 @@ resume-scoring
   width: 50%;">
 
 </p>
+
+[**↥ Back To The Top**](#table-of-contents)
+
+---
+## **More on Project**
+
+<p align="justify">
+
+**Challenges** <br>
+- Using Cosin similary requires removal of unnecessary text and values that are not the key words or the text of not proving any value.
+- Text contains varity of information that can be used as key words.
+- Text is ununstruced format which means we need to some how make it in a structerd format if we plan to implement to further implement ML/DL models.
+- Varity of models and logic that we can implement Q/A , model, cosin similary, NLTK to weight text, etc.
+<br>
+
+**Approch** <br>
+- Text contains repetative words like A's that are use to seperate info. It helpful for filtering text by removing texts that doesn't add value.
+- Using cosing instead any other methods reason being its help look text similary and prove score that can be used for that rating. instead other ML/DL model that requires more dataset to train or additional similarty check that needs for the rating.
+- Replacing any key 'dutch' words to english to make (almost) every resume as in same structure. 
+- Using key words to located other key informations.
+<br>
+</p>
+
 
 [**↥ Back To The Top**](#table-of-contents)
 
