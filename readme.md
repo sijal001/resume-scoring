@@ -123,7 +123,7 @@ resume-scoring
 ---
 ## **License**
 
-Copyright (c) [2021] [Derrick Van Frausum, Joren Vervoort, Sijal Kumar Joshi]
+Copyright (c) [2023] [Sijal Kumar Joshi]
 
 <p align="justify">
 Permission is hereby granted, free of charge, to any person obtaining a copy
