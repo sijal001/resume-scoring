@@ -23,6 +23,7 @@ Your section headers will be used to reference the location of the destination.
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [Repo Artitecture](#repo-artitecture)
+- [Project Flow](#project-flow)
 - [Next Step](#next-step)
 - [License](#license)
 - [Author Info](#author-info)
@@ -110,6 +111,23 @@ resume-scoring
 
 ---
 
+## **Project Flow**
+
+
+
+
+<p align="center">
+
+<img src="./project_details/job_ranking_flow_diagram.png" alt="Italian Trulli"  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
+</p>
+
+[**↥ Back To The Top**](#table-of-contents)
+
+---
 ## **Next Step**
 
 - Providing Ranking instead of scores.
