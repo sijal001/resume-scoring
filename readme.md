@@ -92,7 +92,7 @@ Contains a sample of how the output of your algorithm should be submitted. Pleas
 
 ## **Repo Artitecture**
 ```
-job_ranking
+resume-scoring
 │───README.md                     :explains the project
 │───requirements.txt              :packages to install to run the program
 │───.gitignore                    :specifies files & directories to exclude from GitHub
