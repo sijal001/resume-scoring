@@ -4,7 +4,7 @@
 <h1 align="center"> <strong>Job Ranking</strong> </h1>
 
 
-<p align="center">
+<p align="center" width="100%">
 
 <img src="https://img.freepik.com/free-vector/internship-job-training-illustration_23-2148751280.jpg" alt="Italian Trulli"  style="display: block;
   margin-left: auto;
@@ -116,7 +116,7 @@ resume-scoring
 
 
 
-<p align="center">
+<p align="center" width="100%">
 
 <img src="./project_details/job_ranking_flow_diagram.png" alt="Italian Trulli"  style="display: block;
   margin-left: auto;
