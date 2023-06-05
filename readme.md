@@ -4,10 +4,14 @@
 <h1 align="center"> <strong>Job Ranking</strong> </h1>
 
 
+<p align="center">
+
 <img src="https://img.freepik.com/free-vector/internship-job-training-illustration_23-2148751280.jpg" alt="Italian Trulli"  style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
+
+</p>
 
 <p> <strong>  Ranking resumes for a specific job description based on the matching content of both sides. !! </strong> </p>
 
