@@ -121,7 +121,7 @@ resume-scoring
 <img src="./project_details/job_ranking_flow_diagram.png" alt="Italian Trulli"  style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;">
+  ">
 
 </p>
 
